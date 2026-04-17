@@ -1,4 +1,4 @@
-# CodeAlpha_HangmanGame
+# CodeAlpha_task
 # Hangman Game 🎮
 
 This is a simple Hangman Game built using Python.
